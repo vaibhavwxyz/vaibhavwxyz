@@ -11,12 +11,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavwxyz&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwxyz" /> </p>
 
-- 📝 I regularly write articles on [https://vaibhavwxyz.hashnode.dev/](https://vaibhavwxyz.hashnode.dev/)
-
-- 💬 Ask me about **React native, mongoDB, JavaScript**
-
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Open-Source
+- 💬 Ask me about Anything Web Devlopment Related
+- 😄 Pronouns: He/His
 - 📫 How to reach me **vaibhawxyz@gmail.com**
-
+- 📝 Sometimes i write articles on [https://vaibhavwxyz.hashnode.dev/](https://vaibhavwxyz.hashnode.dev/)
 
 <details align="left">
   <summary align="left">:zap: GitHub Stats</summary>
