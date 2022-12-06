@@ -39,6 +39,11 @@
 
 </details>
 
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="linkdin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
+
+<br />
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavwxyz&show_icons=true&locale=en" alt="vaibhavwxyz" /></p>
