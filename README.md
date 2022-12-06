@@ -19,23 +19,30 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary align="left">:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vaibhav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavwxyz&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary align="left">:zap: Streak Stats</summary>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
+
+</details>
+
+<details>
+  <summary align="left">:zap: Most Used Languages</summary>
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwxyz" />
 
 </details>
 
 <details>
-  <summary>:zap: Streak Stats</summary>
+  <summary align="left">:zap: Streak Stats</summary>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
 
 </details>
 
