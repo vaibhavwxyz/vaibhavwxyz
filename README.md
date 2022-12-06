@@ -41,7 +41,7 @@
 
 #
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools:
 <p>
 <img alt="html5" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
 <img alt="css3" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
@@ -60,7 +60,7 @@
 
 #
 
-### Talk with me, I am kinda awesome:
+### 💬 Talk with me, I am kinda awesome:
 [<img align="left" alt="linkdin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/vaibhavwxyz/)
 [<img alt="twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://twitter.com/vaibhawxyz)
 
