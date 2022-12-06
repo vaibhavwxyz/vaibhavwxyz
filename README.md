@@ -18,14 +18,14 @@
 - 📫 How to reach me **vaibhawxyz@gmail.com**
 
 
-<details>
+<details align="left">
   <summary align="left">:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vaibhav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavwxyz&show_icons=true&hide_border=true" />
 
 </details>
 
-<details>
+<details align="left">
   <summary align="left">:zap: Streak Stats</summary>
 
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
