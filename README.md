@@ -31,20 +31,19 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
 
 </details>
-
+<!-- 
 <details>
   <summary align="left">:zap: Most Used Languages</summary>
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavwxyz" />
 
-</details>
+</details> -->
 
 <div align="left">
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="linkdin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/vaibhavwxyz/)
 [<img alt="twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://twitter.com/vaibhawxyz)
-</div.
-<br />
+</div>
 
 
 
