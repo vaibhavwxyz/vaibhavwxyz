@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavwxyz&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavwxyz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavwxyz" alt="vaibhavwxyz" /></a> </p>
-
 - 📝 I regularly write articles on [https://vaibhavwxyz.hashnode.dev/](https://vaibhavwxyz.hashnode.dev/)
 
 - 💬 Ask me about **React native, mongoDB, JavaScript**
