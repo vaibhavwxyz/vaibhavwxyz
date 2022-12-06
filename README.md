@@ -39,12 +39,6 @@
 
 </details>
 
-<details>
-  <summary align="left">:zap: Streak Stats</summary>
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" />
-
-</details>
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="linkdin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/vaibhavwxyz/)
