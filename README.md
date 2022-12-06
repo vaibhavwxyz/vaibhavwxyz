@@ -41,14 +41,20 @@
 
 #
 
+### 🧰 Languages and Tools
+
+[<img align="left" alt="JavaScript" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>]
+
+![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
+![html5](https://cdn-icons-png.flaticon.com/512/5968/5968267.png)
+![CSS3](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)
+![TailWind](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
+
+#
+
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="linkdin" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/vaibhavwxyz/)
 [<img alt="twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />](https://twitter.com/vaibhawxyz)
 
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavwxyz&show_icons=true&locale=en" alt="vaibhavwxyz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwxyz&" alt="vaibhavwxyz" /></p> -->
 
 
