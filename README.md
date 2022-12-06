@@ -42,7 +42,7 @@
 #
 
 ### 🧰 Languages and Tools
-
+<p>
 <img alt="html5" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
 <img alt="css3" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
 <img alt="tailwind" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
@@ -56,7 +56,7 @@
 <img alt="redux" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png"/>
 <img alt="vuejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png"/>
 <img alt="nodejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"/>
-
+</p>
 
 #
 
