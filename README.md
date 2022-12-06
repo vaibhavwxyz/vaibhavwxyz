@@ -43,12 +43,12 @@
 
 ### 🧰 Languages and Tools
 
-[<img align="left" alt="JavaScript" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>]
+[<img alt="JavaScript" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>]
+[<img alt="html5" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>]
+[<img alt="css3" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>]
+[<img alt="tailwind" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>]
 
-![JavaScript](https://cdn-icons-png.flaticon.com/512/5968/5968292.png)
-![html5](https://cdn-icons-png.flaticon.com/512/5968/5968267.png)
-![CSS3](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)
-![TailWind](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
+
 
 #
 
