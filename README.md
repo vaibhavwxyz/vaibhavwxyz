@@ -23,7 +23,7 @@
 
   <img align="left" alt="Vaibhav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaibhavwxyz&show_icons=true&hide_border=true" />
 
-</details> 
+</details>
 
 <details align="left">
   <summary align="left">:zap: Streak Stats</summary>
