@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Vaibhav Shinde</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-<p>Hey there,</p> 
+<p>Hey there,</p>
 
 <p>
   I'm Vaibhav, a full-stack Web Developer based in Pune MH, who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning React-Native and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related </b>.
