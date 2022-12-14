@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Open-Source
 - 💬 Ask me about Anything Web Devlopment Related
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - 📫 How to reach me **vaibhawxyz@gmail.com**
 - 📝 Sometimes i write articles on [https://vaibhavwxyz.hashnode.dev/](https://vaibhavwxyz.hashnode.dev/)
 
