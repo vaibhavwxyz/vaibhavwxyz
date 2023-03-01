@@ -4,7 +4,7 @@
 <p>Hey there,</p>
 
 <p>
-  I'm Vaibhav, a full-stack Web Developer based in Pune MH, who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning React and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related </b>.
+  I'm Vaibhav, a full-stack Web Developer based in Pune MH, who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm currently learning React and looking to collaborate on  Open-Source projects, with a goal to be more involved in the Community. I'm also open to having a chat about <b> Anything Web Devlopment Related. </b>
 </p>
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="360" height="220" />
