@@ -54,7 +54,7 @@
 <img alt="sql" width="22px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png"/>
 <img alt="react" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/react-4-1175110.png"/>
 <img alt="redux" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png"/>
-<img alt="vuejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png"/>
+<img alt="vuejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-express-9-1175170.png?f=avif&w=512"/>
 <img alt="nodejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"/>
 </p>
 
